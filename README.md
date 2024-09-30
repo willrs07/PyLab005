@@ -123,7 +123,7 @@ print(ip_to_binary("256.1.1.1"))  # "Invalid IP address"
 ```
 
 **Task 2: Bonus-Bonus (BONUS+5pt) Exercise (Extra Optional):**  
-Extend the `ip_to_binary` function so that it accepts both valid IP addresses and binary representations of IP addresses without ANY guidance! In other words, you should have an ip_to_binary, but also a binary_to_ip, and a generalized ip_convert function that can:
+Extend the `ip_to_binary` function so that it accepts both valid IP addresses and binary representations of IP addresses without ANY guidance! In other words, you should have an `ip_to_binary`, but also a `binary_to_ip`, and a generalized `ip_convert` function that can:
 1. Determine the type of IP passed in
 2. Convert the IP type appropriately.
 3. You have to come up with the HINTS!!!
